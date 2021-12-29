@@ -493,30 +493,8 @@ ___
 
 # Links and Addresses <a name="linksaddresses"></a>
 
-* TradingView :
-
-https://www.tradingview.com/gopro/?share_your_love=lth_elm for both saving 30$ when upgrading to a paid plan.
-
-* FTX :
-
-https://ftx.com/#a=26368756 and you receive a 5,00 % fee discount on all your trades.
-
-* Binance and Binance future:
-
-https://accounts.binance.com/en/register?ref=MJB86NYU to save 10% comission fee.
-
-https://www.binance.com/en/futures/ref/154947021 for binance future and to also save 10%.
-
-&nbsp;
-
-If it was interesting and you've learned something feel free to support me by sending any amount of cryptos to one of the following addresses :)
-
-* Ethereum, Matic Mainet and BSC : *0xa1eF4B0eA4f2a45Dc60baba368BDB8656B6fD580*
-
-* Solana : *2c1F4Rs63nL1VCuLP7Qz776X1NemfNUfYjMWTALQzrwh*
-
-* Bitcoin : *3DXrC7ZXxYa4bFbjL3ofgWxfeeiAzzHWf4*
-
+* DaviddTech : https://www.patreon.com/daviddtech
+* https://www.youtube.com/channel/UC7NJLsf6IonOy8QI8gt5BeA
 
 &nbsp;
 
