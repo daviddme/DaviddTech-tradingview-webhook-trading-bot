@@ -1,3 +1,7 @@
+[AI Trading Bots](https://daviddtech.com)
+[Free TradingView indicators](https://daviddtech.com/indicators)
+
+
 1. [Presentation](#presentation)
 2. [TradingView](#tradingview)
     1. [Pinescript Strategy](#pinescriptstrategy)
